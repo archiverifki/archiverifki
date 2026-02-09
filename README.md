@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://github.com/Rifkikres/Rifkikres/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/archiverifki/archiverifki/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
